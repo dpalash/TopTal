@@ -1,0 +1,7 @@
+C:\Users\cefalo\Source\Repos\TopTal\bin\Debug\TopTal.exe.config
+C:\Users\cefalo\Source\Repos\TopTal\bin\Debug\TopTal.exe
+C:\Users\cefalo\Source\Repos\TopTal\bin\Debug\TopTal.pdb
+C:\Users\cefalo\Source\Repos\TopTal\obj\Debug\TopTal.csprojAssemblyReference.cache
+C:\Users\cefalo\Source\Repos\TopTal\obj\Debug\TopTal.csproj.CoreCompileInputs.cache
+C:\Users\cefalo\Source\Repos\TopTal\obj\Debug\TopTal.exe
+C:\Users\cefalo\Source\Repos\TopTal\obj\Debug\TopTal.pdb
